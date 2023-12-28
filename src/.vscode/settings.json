@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "kmain.h": "c",
+    "errno.h": "c",
+    "syscall.h": "c"
+  }
+}
