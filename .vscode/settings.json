@@ -1,0 +1,12 @@
+{
+      "files.associations": {
+            "cstdarg": "c",
+            "kstdio.h": "c",
+            "__config": "cpp",
+            "seven_segment.h": "c",
+            "stdarg.h": "c",
+            "clock.h": "c",
+            "test_interrupt.h": "c",
+            "type_traits": "c"
+      }
+}
